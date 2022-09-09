@@ -27,3 +27,6 @@
 **Note:** In some case, in form while submitting add onSubmit attribute for calling isValidation(this) for 
 confirming the validation, this case will arise when this tag will be added in html dynamically(from javascript code).
 
+**Note:** Always add the cdn link below bottom of the body tag
+![Screenshot from 2022-09-09 16-11-24](https://user-images.githubusercontent.com/65856669/189332584-055e1bb3-b2eb-4201-bef1-e99a332d2f17.png)
+
