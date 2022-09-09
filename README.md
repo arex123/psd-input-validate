@@ -5,12 +5,11 @@
 
   ## How to use password-valid-tag
 
-- Add the tag in your code
+- Add above cdn link in the script tag, and place the script tag at the bottom of the body in your html page
+- Now you can use <password-valid-tag></password-valid-tag> in your page
 - by default it takes 1 uppercase, 1 lowercase, 1 special, 1 number, mininimum 6 char and max 50 
-- if you need to ask multiple of these char use attributes mentioned below
 - Simply styles can be added in component's js page as well as in different styles page, **note** reg_Password is the name of inputs id 
-- if using password-component.js(for independent css), css inside this template
-- if using password-component-d.js(dependent css, add css in your code 
+
 
 ## Attributes
 
@@ -33,4 +32,9 @@ confirming the validation, this case will arise when this tag will be added in h
 
 ## Output:
 ![Screenshot from 2022-09-09 16-27-40](https://user-images.githubusercontent.com/65856669/189335401-8511eafd-9275-4729-9fef-b61fd4188973.png)
+
+
+**Issue**: 
+If writing logic for "New password" & "re-enter password", It is recommended to write "re-enter password" code by yourself.
+This issue will get resolve some day.
 
