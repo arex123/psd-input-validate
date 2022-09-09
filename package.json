@@ -1,6 +1,6 @@
 {
   "name": "password-validation-tag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use this library to enhance your password validation field",
   "main": "password-component-d.js",
   "scripts": {
