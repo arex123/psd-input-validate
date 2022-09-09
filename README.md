@@ -6,7 +6,7 @@
   ## How to use password-valid-tag
 
 - Add above cdn link in the script tag, and place the script tag at the bottom of the body in your html page
-- Now you can use <password-valid-tag></password-valid-tag> in your page
+- Now you can use `<password-valid-tag></password-valid-tag>` in your page
 - by default it takes 1 uppercase, 1 lowercase, 1 special, 1 number, mininimum 6 char and max 50 
 - Simply styles can be added in component's js page as well as in different styles page, **note** reg_Password is the name of inputs id 
 
