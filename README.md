@@ -1,5 +1,8 @@
 # password-tag
 
+### CDN
+        https://unpkg.com/password-validation-tag@1.0.0/password-component-d.js
+
   ## How to use password-valid-tag
 
 - Add the tag in your code
