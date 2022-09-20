@@ -3,8 +3,7 @@
 ### CDN
         https://unpkg.com/password-validation-tag@1.0.0/password-component-d.js
         
-### Npm link
-        https://www.npmjs.com/package/password-validation-tag
+### [Npm link](https://www.npmjs.com/package/password-validation-tag)
 
   ## How to use password-valid-tag
 
